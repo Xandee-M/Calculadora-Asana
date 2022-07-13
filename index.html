@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora ASANA</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <script src="/assets/js/required/jquery.min.js"></script>
+    <script src="/assets/js/required/jquery.mask.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="box">
+            <h1 class="title">Calculadora horas Asana</h1>
+            <label class="pure-material-textfield-outlined full">
+                <input placeholder=" " id="second" maxlength="5">
+                <span>60 Minutos = 1.00</span>
+            </label>
+            <button class="pure-material-button-contained" id="calculate" onclick="calculatePercentage()">Calcular</button>
+            <p class="result" id="result"></p>
+        </div>
+    </div>
+</body>
+<script src="/assets/js/custom.js"></script>
+</html>

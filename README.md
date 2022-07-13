@@ -5,7 +5,7 @@ Acesse `chrome://extensions/` em seu navegador
 
 Busque pela opção `Modo de Desenvolvedor` e a ative
 
-Baixe a extensão aqui: [Calculadora.zip](https://drive.google.com/file/d/15OAK9zJoeNHx0LS4hBXnwPDH5JpzY7Nt/view?usp=sharing)
+Baixe a extensão aqui: [Calculadora.zip](https://drive.google.com/file/d/1CDP7wp9KC2PcdflT3veOL0MJKXSJO_hP/view?usp=sharing)
 
 Envie a extensão ja descompactada no botão `Carregar sem compactação`
 

@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "version": "1.0.0",
+    "name": "Calculadora ASANA",
+    "description": "Calculadora de minutos para o Asana",
+    "author": "Alexandre Muniz",
+    "browser_action": {
+   	    "default_title": "Calculadora Asana",
+   	    "default_popup": "index.html"
+    }
+}
